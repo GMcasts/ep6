@@ -96,9 +96,6 @@ handle_gravity();
 
 check_collision();
 
-if(keyboard_check_pressed(ord('P'))){
-    instance_create(x,y,o_pause);
-}
 </string>
           </argument>
         </arguments>

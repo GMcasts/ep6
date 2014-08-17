@@ -30,7 +30,6 @@
     <object>objects\o_player</object>
     <object>objects\o_block</object>
     <object>objects\o_bird</object>
-    <object>objects\o_pause</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
